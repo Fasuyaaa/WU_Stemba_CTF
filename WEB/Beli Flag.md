@@ -17,4 +17,4 @@ WRITE UP
 
 ![4](https://user-images.githubusercontent.com/113501500/213484377-d3298fc7-9315-4057-b3f2-d184fd5e57db.png)
 
-flagnya adalah STEMBACTF{1nput_f0rm_1tu_m3n4kutk4n}
+flagnya adalah `STEMBACTF{1nput_f0rm_1tu_m3n4kutk4n}`
