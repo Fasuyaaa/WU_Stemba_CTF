@@ -1,4 +1,4 @@
-WRITE UP Beli Flag
+WRITE UP | Beli Flag
 -------------------------------------
 Kategori: Web
 
@@ -18,13 +18,13 @@ SOLVED
 3. Kita lanjut pada proses pembuatan skripnya. Silahkan buat skrip seperti dibawah ini dengan ekstensi file .php ya. Berikut ini beberapa fungsi dari sintaks pada skrip dibawah ini:
 - `echo` = Sebuah perintah built-in di PHP untuk menampilkan suatu teks atau nilai variabel ke layar.
 - `shell_exec` = Sebuah fungsi yang digunakan untuk mengeksekusi perintah shell dari PHP dan mengembalikan hasil dari perintah menjadi string.
-- `"ls -la \"` = Perintah ini akan menampilkan daftar file dan direktori dalam direktori root "\" termasuk tanggal, waktu, ukuran file, group, dan sebagainya
+- `"ls -la \"` = Perintah ini akan menampilkan daftar file dan direktori dalam direktori root "\" termasuk tanggal, waktu, ukuran file, group, dan sebagainya.
 
 Jadi jika `echo` dan `shell_exec` digabung maka `echo` digunakan untuk menampilkan hasil yang di return oleh `shell_exec` yang merupakan hasil dari perintah shell yang dijalankan.  
 
 ![4](https://user-images.githubusercontent.com/113501500/213694856-fd878477-3531-48ae-ab63-f8429c588a42.png)
 
-4. Pilih file skrip PHP tadi yang telah kita buat. kosongkan kolom `Filter` agar dapat memilih file selain file gambar
+4. Pilih file skrip PHP tadi yang telah kita buat. kosongkan kolom `Filter` agar dapat memilih file selain file gambar.
 
 ![5](https://user-images.githubusercontent.com/113501500/213697319-f1018c59-9e0d-49e3-b1a0-9fdec0118fa4.png)
 
@@ -40,17 +40,17 @@ Jadi jika `echo` dan `shell_exec` digabung maka `echo` digunakan untuk menampilk
 
 ![8](https://user-images.githubusercontent.com/113501500/213699047-b880acda-8368-4963-99de-37c4c7ad1dd7.png)
 
-8. Berpindah ke teks editor lagi, kita ubah perintah `"ls -la \"` menjadi `"cat \flag.txt"`. Perintah ini berfungsi untuk mengeluarkan atau menampilkan isi dari file flag.txt
+8. Berpindah ke teks editor lagi, kita ubah perintah `"ls -la \"` menjadi `"cat \flag.txt"`. Perintah ini berfungsi untuk mengeluarkan atau menampilkan isi dari file flag.txt.
 
 ![9](https://user-images.githubusercontent.com/113501500/213699087-e7671865-51b5-4f8f-b53a-a9f327e2f5cc.png)
 
-9. Sama seperti langkah sebelumnya, kita pilih file PHP yang tadi sudah kita ganti untuk menampilkan isi file `flag.txt`
+9. Sama seperti langkah sebelumnya, kita pilih file PHP yang tadi sudah kita ganti untuk menampilkan isi file `flag.txt`.
 ![11](https://user-images.githubusercontent.com/113501500/213699195-24bb8f19-d344-4d36-920c-93a0d6730d68.png)
 
-10. Kita buka link PHP yang ada di bawah 
+10. Kita buka link PHP yang ada di bawah. 
 ![12](https://user-images.githubusercontent.com/113501500/213699230-d3cf25b1-5fff-40f5-837f-32d1afc7d808.png)
 
-11. Muncul flag hasil dari file `flag.txt`
+11. Muncul flag hasil dari file `flag.txt`.
 ![13](https://user-images.githubusercontent.com/113501500/213699274-75543c5d-6302-4a22-87b8-242c9c2e4703.png)
 
 flagnya adalah `STEMBACTF{hallo_mate_w31l_y0u_g0t_th3_f14g}`
