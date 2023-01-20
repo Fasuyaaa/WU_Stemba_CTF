@@ -1,6 +1,6 @@
 WRITE UP | Beli Flag
 -------------------------------------
-Kategori: Web
+Kategori: WEB
 
 Kerentanan pada soal CTF kali ini adalah kerentanan tamper data. Kerentanan tamper data adalah kerentanan yang diakibatkan karena suatu web tidak memvalidasi atau mengecek suatu value yang dikirim oleh user. Hal ini dapat mengakibatkan user dapat mengubah data yang seharusnya tidak diubah. Tujuan pada soal CTF ini adalah kita diharuskan mengubah suatu value agar mencapai syarat untuk mendapatkan suatu flag.
 
