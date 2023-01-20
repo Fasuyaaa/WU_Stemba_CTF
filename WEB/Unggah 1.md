@@ -1,6 +1,6 @@
 WRITE UP | Beli Flag
 -------------------------------------
-Kategori: Web
+Kategori: WEB
 
 Kerentanan pada soal CTF kali ini adalah kerentanan pada file upload. Kerentanan ini membuat kita dapat menjalankan skrip yang berbahaya dengan hanya mengunggahnya di web tersebut. Untuk lebih lengkapnya bisa dilihat di video youtube berikut `https://www.youtube.com/watch?v=lNyOCdOV9Os&t=678s`. Tujuan CTF kali ini adalah kita mendapatkan flag yang ada di direktori shell web dengan cara mengunggah skrip yang berisikan perintah menjalankan shell untuk mendapatkan flagnya.
 
