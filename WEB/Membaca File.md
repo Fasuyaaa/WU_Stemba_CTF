@@ -1,6 +1,6 @@
 WRITE UP | Membaca File
 -------------------------------------
-Kategori: Web
+Kategori: WEB
 
 Kerentanan pada soal CTF kali ini adalah kerentanan Directory Traversal. Jenis kerentanan yang memungkinkan kita untuk mengakses file dan direktori yang seharusnya tidak dapat diakses di server web. Ini dapat dilakukan dengan menggunakan tanda ".." dalam permintaan HTTP untuk mengakses file di luar direktori yang diizinkan. Tujuan kita pada soal CTF kali ini adalah memanfaatkan kerentanan Directory Traversal untuk mendapatkan flag diluar direktori yang diizinkan.
 
