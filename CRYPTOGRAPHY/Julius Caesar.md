@@ -9,13 +9,16 @@ SOLVED
 1. Pertama baca terlebih dahulu soalnya. Pada soal CTF ini kita diberikan suatu kalimat berupa hasil `enkripsi` dari `Sandi Caesar` dengan `shift key 7`. 
 ![1](https://user-images.githubusercontent.com/113501500/213875560-9a307314-e58d-43b3-947e-465f72c212c7.png)
 
-2. 
+2. Di dalam hint diberitau kita bisa pakai decoder online atau skrip python, namun disini kita akan pakai decoder online saja agar lebih mudah ehe.
 ![2](https://user-images.githubusercontent.com/113501500/213875565-7994d19e-87a0-4709-81f8-c1997041e714.png)
 
+3. Kita salin hasil enkripsi di dalam soal tadi.
 ![3](https://user-images.githubusercontent.com/113501500/213875566-abef9093-666e-43fd-ad07-f5c4035f06c1.png)
 
+4. Kita buka Caesar decoder online nya `https://www.dcode.fr/caesar-cipher`. Masukkan hasil `enkripsi` tadi ke kolom `Caesar shifted ciphertext` dan ubah `Shift/Key (number):` menjadi `7`. Tekan `DECRYPT`.
 ![4](https://user-images.githubusercontent.com/113501500/213875571-5ef7dc11-7cf0-4590-9e0b-380730a959a0.png)
 
+5. Flag hasil `dekripsi` akan muncul di sebelah kanan layar.
 ![5](https://user-images.githubusercontent.com/113501500/213875579-95b05018-4f02-47db-95bd-4183c5935d68.png)
 
 flagnya adalah `STEMBACTF{halo_saya_adalah_caesar!!caesar_cipher??}`
