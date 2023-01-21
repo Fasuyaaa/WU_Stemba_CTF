@@ -28,7 +28,7 @@ SOLVED
 7. Kita scroll layar sampai bagian komentar. 
 ![7](https://user-images.githubusercontent.com/113501500/213870842-5c4e1f7a-c374-4817-aa7c-e0965821d376.png)
 
-
+8. Kita buka isi balasan komentarnya dan akan terlihat flagnya.
 ![8](https://user-images.githubusercontent.com/113501500/213870846-60364763-b8e3-4eae-a679-5c9f7288906f.png)
 
-flagnya adalah `STEMBACTF{w0w_4p4k4h_k4mu_d4r1_m4s4_d3p4n_br0???}`
+flagnya adalah `STEMBACTF{Audi0_4nd_0p3n_S0urc3_1nt3llegent}`
