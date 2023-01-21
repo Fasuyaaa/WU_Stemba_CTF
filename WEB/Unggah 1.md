@@ -24,7 +24,7 @@ Jadi jika `echo` dan `shell_exec` digabung maka `echo` digunakan untuk menampilk
 
 ![4](https://user-images.githubusercontent.com/113501500/213694856-fd878477-3531-48ae-ab63-f8429c588a42.png)
 
-4. Pilih file skrip PHP tadi yang telah kita buat. kosongkan kolom `Filter` agar dapat memilih file selain file gambar.
+4. Pilih file skrip PHP tadi yang telah kita buat. Kosongkan kolom `Filter` agar dapat memilih file selain file gambar.
 
 ![5](https://user-images.githubusercontent.com/113501500/213697319-f1018c59-9e0d-49e3-b1a0-9fdec0118fa4.png)
 
